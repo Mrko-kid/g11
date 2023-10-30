@@ -1,0 +1,1 @@
+const int age=23;
